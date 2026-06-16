@@ -79,7 +79,7 @@ namespace _04_Loops
             //Console.WriteLine("----------------------");
             //Console.WriteLine(totalValue);
 
-            //int count = 0;
+            //int count = 0; (Burdan sonra tekrar et yine) (Bir ara döngüler kısmındaki örnekleri tekrar et)
             //for (int i = 1; i <= 50; i++)
             //{
             //    if (i % 7 == 0)
